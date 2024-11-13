@@ -1,6 +1,6 @@
 import pygame
 
-# first commit
+# first commit!
 
 def main():
     try:
